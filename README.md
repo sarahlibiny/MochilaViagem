@@ -1,6 +1,8 @@
 # MochilaViagem
 Projeto desenvolvido durante o curso Javascript na Web: armazenando dados do navegador, na plataforma Alura.
 
+![projetomochila](https://github.com/sarahlibiny/MochilaViagem/assets/122837977/2cd28307-db04-4fbd-ab4e-e50d4ddae287)
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - HTML5
